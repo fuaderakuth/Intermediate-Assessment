@@ -8,7 +8,7 @@
   *  Replaced missing values in categorical fields with Unknown.
   *  Replaced missing values in quantitative fields like UnitPrice, Sales, Cost and Profit by Adding calculated columns ( Ex, if UnitPrice=null, replaced it by Sales/Quantity).
 #### 2. Visualization 
-  * Reference in the Screenshot.
+  * Reference in the Screenshot "Charts & Measure.png".
 #### 3. Data Visualization 
   * Created calculated table "EasterRegionOrders" using "Filter".
   * Created calculated column "ProfitCostDifference" by subtracting (Profit - Cost).  
