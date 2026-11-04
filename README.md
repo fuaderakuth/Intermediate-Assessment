@@ -12,4 +12,4 @@
 #### 3. Data Visualization 
   * Created calculated table "EasterRegionOrders" using "Filter".
   * Created calculated column "ProfitCostDifference" by subtracting (Profit - Cost).  
-  * TotalProift measure is found by Sum(Profit).   
+  * TotalProift measure is found by Sum(SalesData[Profit]).   
